@@ -20,5 +20,6 @@ This is my first try with javascipt. Be *kind* please. Web Development is ***fun
 # Usage
 
 # Dependencies
+Dependencies: None
 
 
